@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+langchain
+langchain-groq
+langchain-core
+langchain-chroma
+langchain-ollama
+lazypredict
+python-dotenv
+sqlite3

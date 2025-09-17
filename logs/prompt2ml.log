@@ -1,0 +1,18 @@
+2025-09-17 18:43:20,847 - prompt2ml - ERROR - Error initializing application: GROQ_API_KEY not found in environment variables
+2025-09-17 18:43:39,944 - prompt2ml - ERROR - Error initializing application: GROQ_API_KEY not found in environment variables
+2025-09-17 18:44:20,013 - prompt2ml - ERROR - Error initializing application: GROQ_API_KEY not found in environment variables
+2025-09-17 18:53:13,877 - prompt2ml - ERROR - Error initializing application: GROQ_API_KEY not found in environment variables
+2025-09-17 18:54:27,147 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:54:42,851 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:55:35,601 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:57:14,651 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:57:43,872 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:58:11,820 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:58:56,313 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 18:59:12,594 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 19:00:17,224 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 19:04:52,680 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 19:04:52,699 - prompt2ml - ERROR - Error loading CSV: 'utf-8' codec can't decode byte 0x84 in position 5327: invalid start byte
+2025-09-17 19:05:22,425 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 19:05:56,661 - prompt2ml - INFO - Prompt2ML application initialized successfully
+2025-09-17 19:07:25,126 - prompt2ml - INFO - Prompt2ML application initialized successfully

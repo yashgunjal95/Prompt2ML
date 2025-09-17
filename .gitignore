@@ -1,0 +1,12 @@
+.env
+chroma_data/
+db/sessions.db
+logs/
+agents/__pycache__/
+db/__pycache__/
+config/__pycache__/
+ml_engine/__pycache__/
+config/__pycache__/
+output/__pycache__/
+retriever/__pycache__/
+utils/__pycache__/
